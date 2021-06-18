@@ -1,7 +1,9 @@
 A Recipe for Rice
 
 Ingredients:
-
+1. water
+2. rice
+3. salt
 
 
 Steps:
