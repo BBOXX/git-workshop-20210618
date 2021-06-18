@@ -5,7 +5,9 @@ Ingredients:
 Rice
 Water
 Salt
+curry
 
 Steps:
 
 Boil the water
+add in rice
